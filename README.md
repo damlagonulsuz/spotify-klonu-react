@@ -1,4 +1,4 @@
-You can visit app from here: https://spotify-klonu-hv7pwckk8-damlagonulsuz.vercel.app/
+You can visit website from here: https://spotify-klonu-hv7pwckk8-damlagonulsuz.vercel.app/
 
 # Getting Started with Create React App
 
